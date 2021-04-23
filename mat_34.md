@@ -2,13 +2,15 @@
 title: "Item - Materials - Исключительная древесина"
 permalink: /mat_34/
 excerpt: "Эра хаоса  Исключительная древесина"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "mat_34.md"
 toc: false
 classes: wide
 ---
  [Materials](/ItemsRU/){: .btn .btn--primary}[Artifacts](/ItemsRU/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsRU/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsRU/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsRU/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsRU/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsRU/Gift/){: .btn .btn--success}[Event related](/ItemsRU/Events/){: .btn .btn--warning}[Avatars](/ItemsRU/Avatars/){: .btn .btn--danger}[Consumables](/ItemsRU/Consumables/){: .btn .btn--info}[Unknown](/ItemsRU/Unknown/){: .btn .btn--primary}
+
+ ![Исключительная древесина](/images/t/i_cailiao_mucai2.png)
 
 ## Подробности
  **Описание:** Обычные материалы для улучшения снаряжения c фиолетового до фиолетового +1.
