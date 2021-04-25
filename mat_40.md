@@ -2,13 +2,13 @@
 title: "Item - Materials - Редкая руда +1"
 permalink: /mat_40/
 excerpt: "Эра хаоса  Редкая руда +1"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "mat_40.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsRU/){: .btn .btn--primary}[Artifacts](/ItemsRU/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsRU/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsRU/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsRU/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsRU/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsRU/Gift/){: .btn .btn--success}[Event related](/ItemsRU/Events/){: .btn .btn--warning}[Avatars](/ItemsRU/Avatars/){: .btn .btn--danger}[Consumables](/ItemsRU/Consumables/){: .btn .btn--info}[Unknown](/ItemsRU/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsRU/){: .btn .btn--primary}[Artifacts](/ItemsRU/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsRU/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsRU/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsRU/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsRU/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsRU/Gift/){: .btn .btn--success}[Event related](/ItemsRU/Events/){: .btn .btn--warning}[Avatars](/ItemsRU/Avatars/){: .btn .btn--danger}[Consumables](/ItemsRU/Consumables/){: .btn .btn--info}[Unknown](/ItemsRU/Unknown/){: .btn .btn--primary}
 
  ![Редкая руда +1](/images/t/i_cailiao_kuangshi2.png)
 

@@ -2,16 +2,16 @@
 title: "Item - Hero Soul"
 permalink: /HeroSoul/
 excerpt: "Hero Soul in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Hero Soul.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsRU/){: .btn .btn--primary}[Artifacts](/ItemsRU/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsRU/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsRU/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsRU/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsRU/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsRU/Gift/){: .btn .btn--success}[Event related](/ItemsRU/Events/){: .btn .btn--warning}[Avatars](/ItemsRU/Avatars/){: .btn .btn--danger}[Consumables](/ItemsRU/Consumables/){: .btn .btn--info}[Unknown](/ItemsRU/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsRU/){: .btn .btn--primary}[Artifacts](/ItemsRU/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsRU/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsRU/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsRU/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsRU/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsRU/Gift/){: .btn .btn--success}[Event related](/ItemsRU/Events/){: .btn .btn--warning}[Avatars](/ItemsRU/Avatars/){: .btn .btn--danger}[Consumables](/ItemsRU/Consumables/){: .btn .btn--info}[Unknown](/ItemsRU/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Имя        |   Type  |   Описание     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Имя        |   Type  |   Описание     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Аделаида](/images/h/h_Adelaide.jpg) | [Аделаида](/ItemsRU/her_359/){: .btn .btn--era5} | Hero Soul | Соберите 30 осколков души, чтобы призвать Аделаиду в свою команду. Осколки души также необходимы для повышения ее ранга. |
   | 2 | ![Астрал](/images/h/h_Astral.jpg) | [Астрал](/ItemsRU/her_388/){: .btn .btn--era5} | Hero Soul | Соберите 30 осколков души, чтобы призвать Астрала в свою команду. Осколки души также требуются для повышения его ранга. |
   | 3 | ![Вестан](/images/h/h_Wystan.jpg) | [Вестан](/ItemsRU/her_395/){: .btn .btn--era5} | Hero Soul | Соберите 30 осколков души, чтобы призвать Вестана в свою команду. Осколки души также требуются для повышения его ранга. |

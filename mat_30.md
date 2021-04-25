@@ -2,13 +2,13 @@
 title: "Item - Materials - Ценные самоцветы +2"
 permalink: /mat_30/
 excerpt: "Эра хаоса  Ценные самоцветы +2"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "mat_30.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsRU/){: .btn .btn--primary}[Artifacts](/ItemsRU/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsRU/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsRU/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsRU/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsRU/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsRU/Gift/){: .btn .btn--success}[Event related](/ItemsRU/Events/){: .btn .btn--warning}[Avatars](/ItemsRU/Avatars/){: .btn .btn--danger}[Consumables](/ItemsRU/Consumables/){: .btn .btn--info}[Unknown](/ItemsRU/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsRU/){: .btn .btn--primary}[Artifacts](/ItemsRU/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsRU/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsRU/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsRU/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsRU/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsRU/Gift/){: .btn .btn--success}[Event related](/ItemsRU/Events/){: .btn .btn--warning}[Avatars](/ItemsRU/Avatars/){: .btn .btn--danger}[Consumables](/ItemsRU/Consumables/){: .btn .btn--info}[Unknown](/ItemsRU/Unknown/){: .btn .btn--primary}
 
  ![Ценные самоцветы +2](/images/t/i_cailiao_baoshi1.png)
 

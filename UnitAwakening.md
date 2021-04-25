@@ -2,16 +2,16 @@
 title: "Item - Unit Awakening"
 permalink: /UnitAwakening/
 excerpt: "Unit Awakening in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Unit Awakening.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsRU/){: .btn .btn--primary}[Artifacts](/ItemsRU/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsRU/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsRU/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsRU/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsRU/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsRU/Gift/){: .btn .btn--success}[Event related](/ItemsRU/Events/){: .btn .btn--warning}[Avatars](/ItemsRU/Avatars/){: .btn .btn--danger}[Consumables](/ItemsRU/Consumables/){: .btn .btn--info}[Unknown](/ItemsRU/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsRU/){: .btn .btn--primary}[Artifacts](/ItemsRU/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsRU/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsRU/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsRU/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsRU/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsRU/Gift/){: .btn .btn--success}[Event related](/ItemsRU/Events/){: .btn .btn--warning}[Avatars](/ItemsRU/Avatars/){: .btn .btn--danger}[Consumables](/ItemsRU/Consumables/){: .btn .btn--info}[Unknown](/ItemsRU/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Имя        |   Type  |   Описание     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Имя        |   Type  |   Описание     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Tool_94601](/images/u/tia_dayaojing.jpg) | [Tool_94601](/ItemsRU/unt_320/){: .btn .btn--era5} | Awakening Soul |  |
   | 2 | ![Tool_94602](/images/u/tia_shixianggui.jpg) | [Tool_94602](/ItemsRU/unt_321/){: .btn .btn--era5} | Awakening Soul |  |
   | 3 | ![Tool_94608](/images/u/tia_reqiqiu.jpg) | [Tool_94608](/ItemsRU/unt_327/){: .btn .btn--era5} | Awakening Soul |  |

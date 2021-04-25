@@ -2,16 +2,16 @@
 title: "Item - Artifacts"
 permalink: /Artifacts/
 excerpt: "Artifacts in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Artifacts.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsRU/){: .btn .btn--primary}[Artifacts](/ItemsRU/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsRU/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsRU/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsRU/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsRU/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsRU/Gift/){: .btn .btn--success}[Event related](/ItemsRU/Events/){: .btn .btn--warning}[Avatars](/ItemsRU/Avatars/){: .btn .btn--danger}[Consumables](/ItemsRU/Consumables/){: .btn .btn--info}[Unknown](/ItemsRU/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsRU/){: .btn .btn--primary}[Artifacts](/ItemsRU/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsRU/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsRU/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsRU/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsRU/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsRU/Gift/){: .btn .btn--success}[Event related](/ItemsRU/Events/){: .btn .btn--warning}[Avatars](/ItemsRU/Avatars/){: .btn .btn--danger}[Consumables](/ItemsRU/Consumables/){: .btn .btn--info}[Unknown](/ItemsRU/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Имя        |   Описание     |
-  |:---|---|:--------------------|:------------------|
+  | Nr | Icon |         Имя        |   Описание     |
+  |:---|------|:--------------------|:------------------|
   | 1 |  | [Амулет бога грома](/ItemsRU/art_136/){: .btn .btn--era4} | Украшение в виде молнии, заключающее в себе силу грозы. Одно из сокровищ, описанных в каноне мага. |
   | 2 | ![Амулет маны](/images/t/artifact_40211.png) | [Амулет маны](/ItemsRU/art_112/){: .btn .btn--era3} | Усиливающий магию амулет. Компонент источника чародея. |
   | 3 | ![Амулет некроманта](/images/t/artifact_40321.png) | [Амулет некроманта](/ItemsRU/art_129/){: .btn .btn--era4} | Амулет, который носил лич, чтобы защитить себя. Компонент накидки Мертвого короля. |

@@ -2,16 +2,16 @@
 title: "Item - Materials"
 permalink: /
 excerpt: "Materials in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Materials.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsRU/){: .btn .btn--primary}[Artifacts](/ItemsRU/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsRU/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsRU/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsRU/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsRU/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsRU/Gift/){: .btn .btn--success}[Event related](/ItemsRU/Events/){: .btn .btn--warning}[Avatars](/ItemsRU/Avatars/){: .btn .btn--danger}[Consumables](/ItemsRU/Consumables/){: .btn .btn--info}[Unknown](/ItemsRU/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsRU/){: .btn .btn--primary}[Artifacts](/ItemsRU/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsRU/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsRU/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsRU/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsRU/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsRU/Gift/){: .btn .btn--success}[Event related](/ItemsRU/Events/){: .btn .btn--warning}[Avatars](/ItemsRU/Avatars/){: .btn .btn--danger}[Consumables](/ItemsRU/Consumables/){: .btn .btn--info}[Unknown](/ItemsRU/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Имя        |   Описание     |
-  |:---|---|:--------------------|:------------------|
+  | Nr | Icon |         Имя        |   Описание     |
+  |:---|------|:--------------------|:------------------|
   | 1 | ![Вечная древесина +1](/images/t/i_cailiao_mucai3.png) | [Вечная древесина +1](/ItemsRU/mat_69/){: .btn .btn--era5} | Обычные материалы для улучшения снаряжения c оранжевого +1 до оранжевого +2. |
   | 2 | ![Вечная ртуть +1](/images/t/i_cailiao_shuiyin3.png) | [Вечная ртуть +1](/ItemsRU/mat_70/){: .btn .btn--era5} | Обычные материалы для улучшения снаряжения c оранжевого +1 до оранжевого +2. |
   | 3 | ![Вечная руда +1](/images/t/i_cailiao_kuangshi3.png) | [Вечная руда +1](/ItemsRU/mat_68/){: .btn .btn--era5} | Обычные материалы для улучшения снаряжения c оранжевого +1 до оранжевого +2. |

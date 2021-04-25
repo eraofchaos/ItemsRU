@@ -2,16 +2,16 @@
 title: "Item - Unit Soul"
 permalink: /UnitSoul/
 excerpt: "Unit Soul in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Unit Soul.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsRU/){: .btn .btn--primary}[Artifacts](/ItemsRU/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsRU/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsRU/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsRU/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsRU/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsRU/Gift/){: .btn .btn--success}[Event related](/ItemsRU/Events/){: .btn .btn--warning}[Avatars](/ItemsRU/Avatars/){: .btn .btn--danger}[Consumables](/ItemsRU/Consumables/){: .btn .btn--info}[Unknown](/ItemsRU/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsRU/){: .btn .btn--primary}[Artifacts](/ItemsRU/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsRU/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsRU/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsRU/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsRU/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsRU/Gift/){: .btn .btn--success}[Event related](/ItemsRU/Events/){: .btn .btn--warning}[Avatars](/ItemsRU/Avatars/){: .btn .btn--danger}[Consumables](/ItemsRU/Consumables/){: .btn .btn--info}[Unknown](/ItemsRU/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Имя        |   Type  |   Описание     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Имя        |   Type  |   Описание     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Tool_3209](/images/u/ti_tanglang.jpg) | [Tool_3209](/ItemsRU/unt_207/){: .btn .btn--era6} | Unit Soul |  |
   | 2 | ![Tool_3509](/images/u/ti_yanmo.jpg) | [Tool_3509](/ItemsRU/unt_234/){: .btn .btn--era6} | Unit Soul |  |
   | 3 | ![Tool_3709](/images/u/ti_xiemonv.jpg) | [Tool_3709](/ItemsRU/unt_252/){: .btn .btn--era6} | Unit Soul | Собрав 80 жетонов души, вы можете призвать злую ведьму. Жетоны можно использовать для улучшения ведьм или повышения их ранга. |

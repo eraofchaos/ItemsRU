@@ -2,16 +2,16 @@
 title: "Item - Event related"
 permalink: /Events/
 excerpt: "Event related in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Event related.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsRU/){: .btn .btn--primary}[Artifacts](/ItemsRU/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsRU/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsRU/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsRU/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsRU/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsRU/Gift/){: .btn .btn--success}[Event related](/ItemsRU/Events/){: .btn .btn--warning}[Avatars](/ItemsRU/Avatars/){: .btn .btn--danger}[Consumables](/ItemsRU/Consumables/){: .btn .btn--info}[Unknown](/ItemsRU/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsRU/){: .btn .btn--primary}[Artifacts](/ItemsRU/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsRU/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsRU/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsRU/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsRU/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsRU/Gift/){: .btn .btn--success}[Event related](/ItemsRU/Events/){: .btn .btn--warning}[Avatars](/ItemsRU/Avatars/){: .btn .btn--danger}[Consumables](/ItemsRU/Consumables/){: .btn .btn--info}[Unknown](/ItemsRU/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Имя        |   Type  |   Описание     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Имя        |   Type  |   Описание     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Tool_10001](/images/t/i_10001.png) | [Tool_10001](/ItemsRU/con_511/){: .btn .btn--era4} | Event related | Особые новогодние предметы можно обменять на редкие награды в соответствующие события! |
   | 2 |  | [Tool_10008](/ItemsRU/con_517/){: .btn .btn--era4} | Event related | Можно обменять на редкие предметы во время проведения соответствующих событий. Развлекайтесь! |
   | 3 | ![Tool_10009](/images/t/i_10009.png) | [Tool_10009](/ItemsRU/con_518/){: .btn .btn--era4} | Event related | Можно обменять на редкие предметы во время проведения соответствующих событий. Развлекайтесь! |
