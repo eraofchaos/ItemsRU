@@ -2,7 +2,7 @@
 title: "Item - Hero Skill"
 permalink: /HeroSkill/
 excerpt: "Hero Skill in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Hero Skill.md"
 toc: false

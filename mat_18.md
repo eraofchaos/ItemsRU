@@ -2,7 +2,7 @@
 title: "Item - Materials - Книга оружия"
 permalink: /mat_18/
 excerpt: "Эра хаоса  Книга оружия"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "mat_18.md"
 toc: false

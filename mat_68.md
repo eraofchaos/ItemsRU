@@ -2,7 +2,7 @@
 title: "Item - Materials - Вечная руда +1"
 permalink: /mat_68/
 excerpt: "Эра хаоса  Вечная руда +1"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "mat_68.md"
 toc: false
