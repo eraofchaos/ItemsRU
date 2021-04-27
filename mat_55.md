@@ -2,7 +2,7 @@
 title: "Item - Materials - Легендарная древесина +3"
 permalink: /mat_55/
 excerpt: "Эра хаоса  Легендарная древесина +3"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "mat_55.md"
 toc: false

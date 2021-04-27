@@ -2,7 +2,7 @@
 title: "Item - Materials - Тайная древесина +2"
 permalink: /mat_76/
 excerpt: "Эра хаоса  Тайная древесина +2"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "mat_76.md"
 toc: false

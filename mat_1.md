@@ -2,7 +2,7 @@
 title: "Item - Materials - Низкосортная древесина"
 permalink: /mat_1/
 excerpt: "Эра хаоса  Низкосортная древесина"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "mat_1.md"
 toc: false

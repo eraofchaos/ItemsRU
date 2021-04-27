@@ -2,7 +2,7 @@
 title: "Item - Materials - Тайная ртуть +2"
 permalink: /mat_77/
 excerpt: "Эра хаоса  Тайная ртуть +2"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "mat_77.md"
 toc: false
