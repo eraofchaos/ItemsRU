@@ -2,7 +2,7 @@
 title: "Item - Materials - Хорошая сера"
 permalink: /mat_15/
 excerpt: "Эра хаоса  Хорошая сера"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "mat_15.md"
 toc: false
