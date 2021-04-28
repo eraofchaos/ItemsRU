@@ -25,30 +25,30 @@ classes: wide
   | 11 | ![Tool_21024](/images/t/i_907003.png) | [Tool_21024](/ItemsRU/con_625/){: .btn .btn--era5} | Avatar frame |  |
   | 12 | ![Tool_21027](/images/t/i_907003.png) | [Tool_21027](/ItemsRU/con_628/){: .btn .btn--era5} | Avatar frame |  |
   | 13 | ![Tool_21035](/images/t/i_907003.png) | [Tool_21035](/ItemsRU/con_632/){: .btn .btn--era5} | Avatar frame |  |
-  | 14 | ![Tool_31026](/images/h/h_Catherine9.jpg) | [Tool_31026](/ItemsRU/con_847/){: .btn .btn--era5} | Hero Avatar |  |
-  | 15 | ![Аватар «Золотой герцог»](/images/h/h_CragHack5.jpg) | [Аватар «Золотой герцог»](/ItemsRU/con_571/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить облик и аватар Крэга Хака «Золотой герцог» |
-  | 16 | ![Аватар «Капитан»](/images/h/h_Catherine6.jpg) | [Аватар «Капитан»](/ItemsRU/con_566/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить облик и аватар Катерины «Капитан» |
-  | 17 | ![Аватар «Команда разведчиков»](/images/h/h_Gelu5.jpg) | [Аватар «Команда разведчиков»](/ItemsRU/con_570/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить облик и аватар Джелу «Лазутчики» |
-  | 18 | ![Аватар «Ледяной кристалл»](/images/h/h_Adelaide3.jpg) | [Аватар «Ледяной кристалл»](/ItemsRU/con_569/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить облик и аватар Аделаиды «Ледяной кристалл» |
-  | 19 | ![Аватар «Прыжок льва»](/images/h/h_Gem4.jpg) | [Аватар «Прыжок льва»](/ItemsRU/con_873/){: .btn .btn--era5} | Hero Avatar |  |
-  | 20 | ![Аватар «Рожденная из пепла»](/images/h/h_Luna3.jpg) | [Аватар «Рожденная из пепла»](/ItemsRU/con_576/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить облик и аватар Луны «Рожденная из пепла» |
-  | 21 | ![Аватар «Сын леса»](/images/h/h_Ryland3.jpg) | [Аватар «Сын леса»](/ItemsRU/con_567/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить облик и аватар Риланда «Сын леса» |
-  | 22 | ![Аватар «Тиран пепла»](/images/h/h_Rashka3.jpg) | [Аватар «Тиран пепла»](/ItemsRU/con_568/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить облик и аватар Раски «Пепельный тиран» |
-  | 23 | ![Аватар «Человек Сандро»](/images/h/h_HumanSandro1.jpg) | [Аватар «Человек Сандро»](/ItemsRU/con_579/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить аватар «Человек Сандро» |
-  | 24 | ![Аватар Аделаиды](/images/h/h_Adelaide1.jpg) | [Аватар Аделаиды](/ItemsRU/con_581/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить аватар Аделаиды |
-  | 25 | ![Аватар Богомола «Источник ци»](/images/u/ti_tanglangpifu.jpg) | [Аватар Богомола «Источник ци»](/ItemsRU/con_593/){: .btn .btn--era5} | Hero Avatar |  |
-  | 26 | ![Аватар Великан Тор](/images/u/ti_suoerjurenyuanhuatouxiang.jpg) | [Аватар Великан Тор](/ItemsRU/con_598/){: .btn .btn--era5} | Hero Avatar | Дает аватар Великан Тор |
-  | 27 | ![Аватар Вершитель](/images/u/ti_shenpanguanyuanhuatouxiang.jpg) | [Аватар Вершитель](/ItemsRU/con_597/){: .btn .btn--era5} | Hero Avatar | Дает аватар Вершитель |
-  | 28 | ![Аватар Вестана](/images/h/h_Wystan1.jpg) | [Аватар Вестана](/ItemsRU/con_582/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить аватар Вестана |
-  | 29 | ![Аватар Джелу](/images/h/h_Gelu1.jpg) | [Аватар Джелу](/ItemsRU/con_562/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить аватар Джелу |
-  | 30 | ![Аватар Джем](/images/h/h_Gem1.jpg) | [Аватар Джем](/ItemsRU/con_580/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить аватар Джем |
-  | 31 | ![Аватар Джем «Прыжок льва»](/images/h/h_Gem5.jpg) | [Аватар Джем «Прыжок льва»](/ItemsRU/con_874/){: .btn .btn--era5} | Hero Avatar |  |
-  | 32 |  | [Аватар Драконий голем](/ItemsRU/con_2136/){: .btn .btn--era5} | Hero Avatar | Дает аватар Драконий голем |
-  | 33 | ![Аватар Злая ведьма](/images/u/ti_xiemonvyuanhuatouxiang.jpg) | [Аватар Злая ведьма](/ItemsRU/con_599/){: .btn .btn--era5} | Hero Avatar | Дает аватар Злая ведьма |
-  | 34 | ![Аватар Йога](/images/h/h_Yog1.jpg) | [Аватар Йога](/ItemsRU/con_574/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить аватар Йога |
-  | 35 | ![Аватар Кассанбель](/images/h/h_Cassanbel2.jpg) | [Аватар Кассанбель](/ItemsRU/con_588/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить аватар Кассанбель |
-  | 36 | ![Аватар Кассанбель «Воспаривший дракон»](/images/h/h_Cassanbel3.jpg) | [Аватар Кассанбель «Воспаривший дракон»](/ItemsRU/con_870/){: .btn .btn--era5} | Hero Avatar |  |
-  | 37 | ![Аватар Катерины](/images/h/h_Catherine2.jpg) | [Аватар Катерины](/ItemsRU/con_561/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить аватар Катерины |
+  | 14 | ![Аватар «Золотой герцог»](/images/h/h_CragHack5.jpg) | [Аватар «Золотой герцог»](/ItemsRU/con_571/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить облик и аватар Крэга Хака «Золотой герцог» |
+  | 15 | ![Аватар «Капитан»](/images/h/h_Catherine6.jpg) | [Аватар «Капитан»](/ItemsRU/con_566/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить облик и аватар Катерины «Капитан» |
+  | 16 | ![Аватар «Команда разведчиков»](/images/h/h_Gelu5.jpg) | [Аватар «Команда разведчиков»](/ItemsRU/con_570/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить облик и аватар Джелу «Лазутчики» |
+  | 17 | ![Аватар «Ледяной кристалл»](/images/h/h_Adelaide3.jpg) | [Аватар «Ледяной кристалл»](/ItemsRU/con_569/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить облик и аватар Аделаиды «Ледяной кристалл» |
+  | 18 | ![Аватар «Прыжок льва»](/images/h/h_Gem4.jpg) | [Аватар «Прыжок льва»](/ItemsRU/con_873/){: .btn .btn--era5} | Hero Avatar |  |
+  | 19 | ![Аватар «Рожденная из пепла»](/images/h/h_Luna3.jpg) | [Аватар «Рожденная из пепла»](/ItemsRU/con_576/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить облик и аватар Луны «Рожденная из пепла» |
+  | 20 | ![Аватар «Сын леса»](/images/h/h_Ryland3.jpg) | [Аватар «Сын леса»](/ItemsRU/con_567/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить облик и аватар Риланда «Сын леса» |
+  | 21 | ![Аватар «Тиран пепла»](/images/h/h_Rashka3.jpg) | [Аватар «Тиран пепла»](/ItemsRU/con_568/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить облик и аватар Раски «Пепельный тиран» |
+  | 22 | ![Аватар «Человек Сандро»](/images/h/h_HumanSandro1.jpg) | [Аватар «Человек Сандро»](/ItemsRU/con_579/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить аватар «Человек Сандро» |
+  | 23 | ![Аватар Аделаиды](/images/h/h_Adelaide1.jpg) | [Аватар Аделаиды](/ItemsRU/con_581/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить аватар Аделаиды |
+  | 24 | ![Аватар Богомола «Источник ци»](/images/u/ti_tanglangpifu.jpg) | [Аватар Богомола «Источник ци»](/ItemsRU/con_593/){: .btn .btn--era5} | Hero Avatar |  |
+  | 25 | ![Аватар Великан Тор](/images/u/ti_suoerjurenyuanhuatouxiang.jpg) | [Аватар Великан Тор](/ItemsRU/con_598/){: .btn .btn--era5} | Hero Avatar | Дает аватар Великан Тор |
+  | 26 | ![Аватар Вершитель](/images/u/ti_shenpanguanyuanhuatouxiang.jpg) | [Аватар Вершитель](/ItemsRU/con_597/){: .btn .btn--era5} | Hero Avatar | Дает аватар Вершитель |
+  | 27 | ![Аватар Вестана](/images/h/h_Wystan1.jpg) | [Аватар Вестана](/ItemsRU/con_582/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить аватар Вестана |
+  | 28 | ![Аватар Джелу](/images/h/h_Gelu1.jpg) | [Аватар Джелу](/ItemsRU/con_562/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить аватар Джелу |
+  | 29 | ![Аватар Джем](/images/h/h_Gem1.jpg) | [Аватар Джем](/ItemsRU/con_580/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить аватар Джем |
+  | 30 | ![Аватар Джем «Прыжок льва»](/images/h/h_Gem5.jpg) | [Аватар Джем «Прыжок льва»](/ItemsRU/con_874/){: .btn .btn--era5} | Hero Avatar |  |
+  | 31 |  | [Аватар Драконий голем](/ItemsRU/con_2136/){: .btn .btn--era5} | Hero Avatar | Дает аватар Драконий голем |
+  | 32 | ![Аватар Злая ведьма](/images/u/ti_xiemonvyuanhuatouxiang.jpg) | [Аватар Злая ведьма](/ItemsRU/con_599/){: .btn .btn--era5} | Hero Avatar | Дает аватар Злая ведьма |
+  | 33 | ![Аватар Йога](/images/h/h_Yog1.jpg) | [Аватар Йога](/ItemsRU/con_574/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить аватар Йога |
+  | 34 | ![Аватар Кассанбель](/images/h/h_Cassanbel2.jpg) | [Аватар Кассанбель](/ItemsRU/con_588/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить аватар Кассанбель |
+  | 35 | ![Аватар Кассанбель «Воспаривший дракон»](/images/h/h_Cassanbel3.jpg) | [Аватар Кассанбель «Воспаривший дракон»](/ItemsRU/con_870/){: .btn .btn--era5} | Hero Avatar |  |
+  | 36 | ![Аватар Катерины](/images/h/h_Catherine2.jpg) | [Аватар Катерины](/ItemsRU/con_561/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить аватар Катерины |
+  | 37 | ![Аватар Катерины «Союз Правосудия»](/images/h/h_Catherine9.jpg) | [Аватар Катерины «Союз Правосудия»](/ItemsRU/con_847/){: .btn .btn--era5} | Hero Avatar |  |
   | 38 | ![Аватар Ледяной демон](/images/u/ti_bingmoyuanhuatouxiang.jpg) | [Аватар Ледяной демон](/ItemsRU/con_596/){: .btn .btn--era5} | Hero Avatar | Дает аватар Ледяной демон |
   | 39 | ![Аватар Луны](/images/h/h_Luna1.jpg) | [Аватар Луны](/ItemsRU/con_575/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить аватар Луны |
   | 40 | ![Аватар Мефалы](/images/h/h_Mephala1.jpg) | [Аватар Мефалы](/ItemsRU/con_563/){: .btn .btn--era5} | Hero Avatar | Используйте, чтобы получить аватар Мефалы |
