@@ -2,7 +2,7 @@
 title: "Item - Materials - Тайные кристаллы +2"
 permalink: /mat_80/
 excerpt: "Эра хаоса  Тайные кристаллы +2"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "mat_80.md"
 toc: false
