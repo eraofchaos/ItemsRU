@@ -2,7 +2,7 @@
 title: "Item - Materials - Исключительные кристаллы"
 permalink: /mat_38/
 excerpt: "Эра хаоса  Исключительные кристаллы"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "mat_38.md"
 toc: false
