@@ -2,7 +2,7 @@
 title: "Item - Materials - Превосходная древесина +1"
 permalink: /mat_20/
 excerpt: "Эра хаоса  Превосходная древесина +1"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "mat_20.md"
 toc: false

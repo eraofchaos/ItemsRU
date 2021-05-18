@@ -2,7 +2,7 @@
 title: "Item - Hero Soul"
 permalink: /HeroSoul/
 excerpt: "Hero Soul in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Hero Soul.md"
 toc: false
