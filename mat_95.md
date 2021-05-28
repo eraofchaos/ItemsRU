@@ -2,7 +2,7 @@
 title: "Item - Materials - Свидетельство о легенде +4"
 permalink: /mat_95/
 excerpt: "Эра хаоса  Свидетельство о легенде +4"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "mat_95.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Обычные самоцветы"
 permalink: /mat_10/
 excerpt: "Эра хаоса  Обычные самоцветы"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "mat_10.md"
 toc: false

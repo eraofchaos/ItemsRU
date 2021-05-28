@@ -2,7 +2,7 @@
 title: "Item - Materials - Низкосортная ртуть"
 permalink: /mat_2/
 excerpt: "Эра хаоса  Низкосортная ртуть"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "mat_2.md"
 toc: false

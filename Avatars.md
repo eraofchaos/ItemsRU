@@ -2,7 +2,7 @@
 title: "Item - Avatars"
 permalink: /Avatars/
 excerpt: "Avatars in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Avatars.md"
 toc: false

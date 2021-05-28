@@ -2,7 +2,7 @@
 title: "Item - Materials - Исключительная сера"
 permalink: /mat_36/
 excerpt: "Эра хаоса  Исключительная сера"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "mat_36.md"
 toc: false
