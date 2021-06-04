@@ -2,7 +2,7 @@
 title: "Item - Materials - Превосходная ртуть +1"
 permalink: /mat_21/
 excerpt: "Эра хаоса  Превосходная ртуть +1"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "mat_21.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Хорошая руда"
 permalink: /mat_12/
 excerpt: "Эра хаоса  Хорошая руда"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "mat_12.md"
 toc: false
