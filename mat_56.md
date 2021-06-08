@@ -2,7 +2,7 @@
 title: "Item - Materials - Легендарная ртуть +3"
 permalink: /mat_56/
 excerpt: "Эра хаоса  Легендарная ртуть +3"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "mat_56.md"
 toc: false

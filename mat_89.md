@@ -2,7 +2,7 @@
 title: "Item - Materials - Звездная руда +4"
 permalink: /mat_89/
 excerpt: "Эра хаоса  Звездная руда +4"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "mat_89.md"
 toc: false
