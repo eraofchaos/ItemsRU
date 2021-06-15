@@ -2,7 +2,7 @@
 title: "Item - Materials - Сияющая руда +5"
 permalink: /mat_96/
 excerpt: "Эра хаоса  Сияющая руда +5"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "mat_96.md"
 toc: false
