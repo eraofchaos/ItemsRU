@@ -2,7 +2,7 @@
 title: "Item - Unit Soul"
 permalink: /UnitSoul/
 excerpt: "Unit Soul in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Unit Soul.md"
 toc: false
@@ -71,7 +71,7 @@ classes: wide
   | 57 | ![Мумия](/images/u/ti_munaiyi.jpg) | [Мумия](/ItemsRU/unt_215/){: .btn .btn--era4} | Unit Soul | Собрав 80 жетонов души, вы можете призвать мумию (редкость SR). |
   | 58 | ![Нага](/images/u/ti_shenv.jpg) | [Нага](/ItemsRU/unt_240/){: .btn .btn--era5} | Unit Soul | Собрав 80 жетонов души, вы можете призвать нага. Жетоны можно использовать для улучшения нага или повышения их ранга. |
   | 59 | ![Наездник на волке](/images/u/ti_langqibing.jpg) | [Наездник на волке](/ItemsRU/unt_218/){: .btn .btn--era3} | Unit Soul | Собрав 10 жетонов души, вы можете призвать наездника на волке (редкость R). |
-  | 60 | ![Огненный демон](/images/u/ti_yanmo.jpg) | [Огненный демон](/ItemsRU/unt_234/){: .btn .btn--era6} | Unit Soul | Собрав 80 жетонов души, вы можете призвать oгненныго демона. Огненный демон - командующий отрядами. |
+  | 60 | ![Огненный демон](/images/u/ti_yanmo.jpg) | [Огненный демон](/ItemsRU/unt_234/){: .btn .btn--era6} | Unit Soul | Собрав 80 жетонов души, вы можете призвать огненного демона. Жетоны можно использовать для улучшения огненных демонов или повышения их ранга. |
   | 61 | ![Огр](/images/u/ti_shirenmo.jpg) | [Огр](/ItemsRU/unt_220/){: .btn .btn--era4} | Unit Soul | Собрав 30 жетонов души, вы можете призвать огра (редкость SR). |
   | 62 | ![Орк](/images/u/ti_shourentoufushou.jpg) | [Орк](/ItemsRU/unt_219/){: .btn .btn--era4} | Unit Soul | Собрав 30 жетонов души, вы можете призвать орка (редкость SR). |
   | 63 | ![Паладин](/images/u/ti_shengqishi.jpg) | [Паладин](/ItemsRU/unt_197/){: .btn .btn--era5} | Unit Soul | Собрав 80 жетонов души, вы можете призвать паладина (редкость SSR). |

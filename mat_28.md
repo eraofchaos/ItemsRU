@@ -2,7 +2,7 @@
 title: "Item - Materials - Ценная ртуть +2"
 permalink: /mat_28/
 excerpt: "Эра хаоса  Ценная ртуть +2"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "mat_28.md"
 toc: false

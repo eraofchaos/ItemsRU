@@ -2,7 +2,7 @@
 title: "Item - Materials - Звездные самоцветы +4"
 permalink: /mat_93/
 excerpt: "Эра хаоса  Звездные самоцветы +4"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "mat_93.md"
 toc: false

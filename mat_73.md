@@ -2,7 +2,7 @@
 title: "Item - Materials - Вечные кристаллы +1"
 permalink: /mat_73/
 excerpt: "Эра хаоса  Вечные кристаллы +1"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "mat_73.md"
 toc: false
@@ -23,8 +23,7 @@ classes: wide
 
 *    Поход гильдии 
 *    [Глава 21: Грааль -> 21-6](/ru/Main Story/Chapter 21_6/) 
-*    [Глава 21: Грааль -> 21-12](/ru/Main Story/Chapter 21_12/) 
-*    [Глава 21: Грааль -> 21-15](/ru/Main Story/Chapter 21_15/) 
+*    Поход гильдии 
 
 ## This item contains:
 

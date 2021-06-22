@@ -2,7 +2,7 @@
 title: "Item - Materials - Книга сущностей +2"
 permalink: /mat_53/
 excerpt: "Эра хаоса  Книга сущностей +2"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "mat_53.md"
 toc: false

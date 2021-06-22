@@ -2,7 +2,7 @@
 title: "Item - Materials - Исключительная древесина"
 permalink: /mat_34/
 excerpt: "Эра хаоса  Исключительная древесина"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "mat_34.md"
 toc: false

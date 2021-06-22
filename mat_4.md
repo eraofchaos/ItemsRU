@@ -2,7 +2,7 @@
 title: "Item - Materials - Низкосортные самоцветы"
 permalink: /mat_4/
 excerpt: "Эра хаоса  Низкосортные самоцветы"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "mat_4.md"
 toc: false

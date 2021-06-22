@@ -2,7 +2,7 @@
 title: "Item - Unit Awakening"
 permalink: /UnitAwakening/
 excerpt: "Unit Awakening in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Unit Awakening.md"
 toc: false
@@ -18,47 +18,47 @@ classes: wide
   | 4 | ![Tool_94708](/images/u/tia_honglong.jpg) | [Tool_94708](/ItemsRU/unt_335/){: .btn .btn--era5} | Awakening Soul |  |
   | 5 | ![Tool_94804](/images/u/tia_xiyi.jpg) | [Tool_94804](/ItemsRU/unt_338/){: .btn .btn--era5} | Awakening Soul |  |
   | 6 | ![Tool_949901](/images/u/tia_haidao.jpg) | [Tool_949901](/ItemsRU/unt_350/){: .btn .btn--era5} | Awakening Soul |  |
-  | 7 | ![Tool_949902](/images/u/tia_baozang.jpg) | [Tool_949902](/ItemsRU/unt_351/){: .btn .btn--era5} | Awakening Soul |  |
-  | 8 | ![Tool_949905](/images/u/tia_meirenyu.jpg) | [Tool_949905](/ItemsRU/unt_353/){: .btn .btn--era5} | Awakening Soul |  |
-  | 9 | ![Tool_949906](/images/u/tia_longgui.jpg) | [Tool_949906](/ItemsRU/unt_354/){: .btn .btn--era5} | Awakening Soul |  |
-  | 10 | ![Tool_949909](/images/u/tia_xunshashi.jpg) | [Tool_949909](/ItemsRU/unt_356/){: .btn .btn--era5} | Awakening Soul |  |
-  | 11 | ![Камень души «Гнев грома»](/images/u/tia_leiyuansu.jpg) | [Камень души «Гнев грома»](/ItemsRU/unt_344/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения Гнева грома. |
-  | 12 | ![Камень души Владыки бездны](/images/u/tia_diyulingzhu.jpg) | [Камень души Владыки бездны](/ItemsRU/unt_316/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения Владыки бездны |
-  | 13 | ![Камень души Магога](/images/u/tia_touhuoguai.jpg) | [Камень души Магога](/ItemsRU/unt_314/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения Магога |
-  | 14 | ![Камень души алебардщика](/images/u/tia_jibing.jpg) | [Камень души алебардщика](/ItemsRU/unt_282/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня алебардщика пробуждением |
-  | 15 | ![Камень души архангела](/images/u/tia_datianshi.jpg) | [Камень души архангела](/ItemsRU/unt_288/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения ангела |
-  | 16 | ![Камень души архидьявола](/images/u/tia_daemo.jpg) | [Камень души архидьявола](/ItemsRU/unt_318/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения архидьявола |
-  | 17 | ![Камень души архимага](/images/u/tia_dafashi.jpg) | [Камень души архимага](/ItemsRU/unt_323/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения архимага |
-  | 18 | ![Камень души боевого единорога](/images/u/tia_dujiaoshou.jpg) | [Камень души боевого единорога](/ItemsRU/unt_294/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения боевого единорога |
-  | 19 | ![Камень души великого друида](/images/u/tia_deluyi.jpg) | [Камень души великого друида](/ItemsRU/unt_296/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения великого друида |
-  | 20 | ![Камень души вестника грома](/images/u/tia_taitan.jpg) | [Камень души вестника грома](/ItemsRU/unt_326/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения титана. |
-  | 21 | ![Камень души виверны-монарха](/images/u/tia_feilong.jpg) | [Камень души виверны-монарха](/ItemsRU/unt_340/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения чумной виверны-монарха |
-  | 22 | ![Камень души владыки джиннов](/images/u/tia_shendeng.jpg) | [Камень души владыки джиннов](/ItemsRU/unt_324/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения владыки джиннов |
-  | 23 | ![Камень души высокого эльфа](/images/u/tia_mujingling.jpg) | [Камень души высокого эльфа](/ItemsRU/unt_291/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения высокого эльфа |
-  | 24 | ![Камень души высшего паладина](/images/u/tia_shengqishi.jpg) | [Камень души высшего паладина](/ItemsRU/unt_289/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения высшего паладина |
-  | 25 | ![Камень души гарпии](/images/u/tia_yingshenren.jpg) | [Камень души гарпии](/ItemsRU/unt_329/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения гарпии. |
-  | 26 | ![Камень души гидры хаоса](/images/u/tia_duotoulong.jpg) | [Камень души гидры хаоса](/ItemsRU/unt_341/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения гидры. |
-  | 27 | ![Камень души главаря орков](/images/u/tia_banshouren.jpg) | [Камень души главаря орков](/ItemsRU/unt_307/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения главаря орков. |
-  | 28 | ![Камень души гнолла-воина](/images/u/tia_langren.jpg) | [Камень души гнолла-воина](/ItemsRU/unt_336/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения гнолла-воина. |
-  | 29 | ![Камень души громовой птицы](/images/u/tia_leiniao.jpg) | [Камень души громовой птицы](/ItemsRU/unt_309/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения громовой птицы |
-  | 30 | ![Камень души демона бездны](/images/u/tia_haiguai.jpg) | [Камень души демона бездны](/ItemsRU/unt_355/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения демона бездны. |
-  | 31 | ![Камень души дендроида-воина](/images/u/tia_shuyao.jpg) | [Камень души дендроида-воина](/ItemsRU/unt_293/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения дендроида-воина |
-  | 32 | ![Камень души древнего чудища](/images/u/tia_bimeng.jpg) | [Камень души древнего чудища](/ItemsRU/unt_311/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения древнего чудища |
-  | 33 | ![Камень души жреца](/images/u/tia_senglv.jpg) | [Камень души жреца](/ItemsRU/unt_286/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения жреца |
-  | 34 | ![Камень души злобоглаза](/images/u/tia_xieyan.jpg) | [Камень души злобоглаза](/ItemsRU/unt_330/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения злобоглаза |
-  | 35 | ![Камень души зловещего рыцаря](/images/u/tia_siwangqishi.jpg) | [Камень души зловещего рыцаря](/ItemsRU/unt_302/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения зловещего рыцаря |
-  | 36 | ![Камень души золотого голема](/images/u/tia_tieren.jpg) | [Камень души золотого голема](/ItemsRU/unt_322/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения золотого голема |
-  | 37 | ![Камень души золотого дракона](/images/u/tia_lvlong.jpg) | [Камень души золотого дракона](/ItemsRU/unt_295/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения золотого дракона |
-  | 38 | ![Камень души зомби](/images/u/tia_jiangshi.jpg) | [Камень души зомби](/ItemsRU/unt_298/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения зомби |
-  | 39 | ![Камень души капитана кентавров](/images/u/tia_banrenma.jpg) | [Камень души капитана кентавров](/ItemsRU/unt_290/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения капитана кентавров |
-  | 40 | ![Камень души копыта дьявола](/images/u/tia_mengyanshou.jpg) | [Камень души копыта дьявола](/ItemsRU/unt_319/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения копыта дьявола. |
-  | 41 | ![Камень души королевской медузы](/images/u/tia_meidusha.jpg) | [Камень души королевской медузы](/ItemsRU/unt_331/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения королевской медузы. |
-  | 42 | ![Камень души королевы нага](/images/u/tia_shenv.jpg) | [Камень души королевы нага](/ItemsRU/unt_325/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения королевы нага |
-  | 43 | ![Камень души короля минотавров](/images/u/tia_niutouguai.jpg) | [Камень души короля минотавров](/ItemsRU/unt_332/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения короля минотавров |
-  | 44 | ![Камень души короля мумий](/images/u/tia_munaiyi.jpg) | [Камень души короля мумий](/ItemsRU/unt_304/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения короля мумий |
-  | 45 | ![Камень души короля черных драконов](/images/u/tia_heilong.jpg) | [Камень души короля черных драконов](/ItemsRU/unt_334/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения короля черных драконов |
-  | 46 | ![Камень души крестоносца](/images/u/tia_shizijun.jpg) | [Камень души крестоносца](/ItemsRU/unt_285/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения крестоносца |
-  | 47 | ![Камень души лорда вампиров](/images/u/tia_xixuegui.jpg) | [Камень души лорда вампиров](/ItemsRU/unt_300/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения лорда вампиров |
+  | 7 | ![Tool_949905](/images/u/tia_meirenyu.jpg) | [Tool_949905](/ItemsRU/unt_353/){: .btn .btn--era5} | Awakening Soul |  |
+  | 8 | ![Tool_949906](/images/u/tia_longgui.jpg) | [Tool_949906](/ItemsRU/unt_354/){: .btn .btn--era5} | Awakening Soul |  |
+  | 9 | ![Tool_949909](/images/u/tia_xunshashi.jpg) | [Tool_949909](/ItemsRU/unt_356/){: .btn .btn--era5} | Awakening Soul |  |
+  | 10 | ![Камень души «Гнев грома»](/images/u/tia_leiyuansu.jpg) | [Камень души «Гнев грома»](/ItemsRU/unt_344/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения Гнева грома. |
+  | 11 | ![Камень души Владыки бездны](/images/u/tia_diyulingzhu.jpg) | [Камень души Владыки бездны](/ItemsRU/unt_316/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения Владыки бездны |
+  | 12 | ![Камень души Магога](/images/u/tia_touhuoguai.jpg) | [Камень души Магога](/ItemsRU/unt_314/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения Магога |
+  | 13 | ![Камень души алебардщика](/images/u/tia_jibing.jpg) | [Камень души алебардщика](/ItemsRU/unt_282/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня алебардщика пробуждением |
+  | 14 | ![Камень души архангела](/images/u/tia_datianshi.jpg) | [Камень души архангела](/ItemsRU/unt_288/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения ангела |
+  | 15 | ![Камень души архидьявола](/images/u/tia_daemo.jpg) | [Камень души архидьявола](/ItemsRU/unt_318/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения архидьявола |
+  | 16 | ![Камень души архимага](/images/u/tia_dafashi.jpg) | [Камень души архимага](/ItemsRU/unt_323/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения архимага |
+  | 17 | ![Камень души боевого единорога](/images/u/tia_dujiaoshou.jpg) | [Камень души боевого единорога](/ItemsRU/unt_294/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения боевого единорога |
+  | 18 | ![Камень души великого друида](/images/u/tia_deluyi.jpg) | [Камень души великого друида](/ItemsRU/unt_296/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения великого друида |
+  | 19 | ![Камень души вестника грома](/images/u/tia_taitan.jpg) | [Камень души вестника грома](/ItemsRU/unt_326/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения титана. |
+  | 20 | ![Камень души виверны-монарха](/images/u/tia_feilong.jpg) | [Камень души виверны-монарха](/ItemsRU/unt_340/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения чумной виверны-монарха |
+  | 21 | ![Камень души владыки джиннов](/images/u/tia_shendeng.jpg) | [Камень души владыки джиннов](/ItemsRU/unt_324/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения владыки джиннов |
+  | 22 | ![Камень души высокого эльфа](/images/u/tia_mujingling.jpg) | [Камень души высокого эльфа](/ItemsRU/unt_291/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения высокого эльфа |
+  | 23 | ![Камень души высшего паладина](/images/u/tia_shengqishi.jpg) | [Камень души высшего паладина](/ItemsRU/unt_289/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения высшего паладина |
+  | 24 | ![Камень души гарпии](/images/u/tia_yingshenren.jpg) | [Камень души гарпии](/ItemsRU/unt_329/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения гарпии. |
+  | 25 | ![Камень души гидры хаоса](/images/u/tia_duotoulong.jpg) | [Камень души гидры хаоса](/ItemsRU/unt_341/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения гидры. |
+  | 26 | ![Камень души главаря орков](/images/u/tia_banshouren.jpg) | [Камень души главаря орков](/ItemsRU/unt_307/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения главаря орков. |
+  | 27 | ![Камень души гнолла-воина](/images/u/tia_langren.jpg) | [Камень души гнолла-воина](/ItemsRU/unt_336/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения гнолла-воина. |
+  | 28 | ![Камень души громовой птицы](/images/u/tia_leiniao.jpg) | [Камень души громовой птицы](/ItemsRU/unt_309/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения громовой птицы |
+  | 29 | ![Камень души демона бездны](/images/u/tia_haiguai.jpg) | [Камень души демона бездны](/ItemsRU/unt_355/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения демона бездны. |
+  | 30 | ![Камень души дендроида-воина](/images/u/tia_shuyao.jpg) | [Камень души дендроида-воина](/ItemsRU/unt_293/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения дендроида-воина |
+  | 31 | ![Камень души древнего чудища](/images/u/tia_bimeng.jpg) | [Камень души древнего чудища](/ItemsRU/unt_311/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения древнего чудища |
+  | 32 | ![Камень души жреца](/images/u/tia_senglv.jpg) | [Камень души жреца](/ItemsRU/unt_286/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения жреца |
+  | 33 | ![Камень души злобоглаза](/images/u/tia_xieyan.jpg) | [Камень души злобоглаза](/ItemsRU/unt_330/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения злобоглаза |
+  | 34 | ![Камень души зловещего рыцаря](/images/u/tia_siwangqishi.jpg) | [Камень души зловещего рыцаря](/ItemsRU/unt_302/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения зловещего рыцаря |
+  | 35 | ![Камень души золотого голема](/images/u/tia_tieren.jpg) | [Камень души золотого голема](/ItemsRU/unt_322/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения золотого голема |
+  | 36 | ![Камень души золотого дракона](/images/u/tia_lvlong.jpg) | [Камень души золотого дракона](/ItemsRU/unt_295/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения золотого дракона |
+  | 37 | ![Камень души зомби](/images/u/tia_jiangshi.jpg) | [Камень души зомби](/ItemsRU/unt_298/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения зомби |
+  | 38 | ![Камень души капитана кентавров](/images/u/tia_banrenma.jpg) | [Камень души капитана кентавров](/ItemsRU/unt_290/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения капитана кентавров |
+  | 39 | ![Камень души копыта дьявола](/images/u/tia_mengyanshou.jpg) | [Камень души копыта дьявола](/ItemsRU/unt_319/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения копыта дьявола. |
+  | 40 | ![Камень души королевской медузы](/images/u/tia_meidusha.jpg) | [Камень души королевской медузы](/ItemsRU/unt_331/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения королевской медузы. |
+  | 41 | ![Камень души королевы нага](/images/u/tia_shenv.jpg) | [Камень души королевы нага](/ItemsRU/unt_325/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения королевы нага |
+  | 42 | ![Камень души короля минотавров](/images/u/tia_niutouguai.jpg) | [Камень души короля минотавров](/ItemsRU/unt_332/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения короля минотавров |
+  | 43 | ![Камень души короля мумий](/images/u/tia_munaiyi.jpg) | [Камень души короля мумий](/ItemsRU/unt_304/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения короля мумий |
+  | 44 | ![Камень души короля черных драконов](/images/u/tia_heilong.jpg) | [Камень души короля черных драконов](/ItemsRU/unt_334/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения короля черных драконов |
+  | 45 | ![Камень души крестоносца](/images/u/tia_shizijun.jpg) | [Камень души крестоносца](/ItemsRU/unt_285/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения крестоносца |
+  | 46 | ![Камень души лорда вампиров](/images/u/tia_xixuegui.jpg) | [Камень души лорда вампиров](/ItemsRU/unt_300/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения лорда вампиров |
+  | 47 | ![Камень души мертвоглазого охотника](/images/u/tia_baozang.jpg) | [Камень души мертвоглазого охотника](/ItemsRU/unt_351/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения мертвоглазого охотника. |
   | 48 | ![Камень души могучего лича](/images/u/tia_wuyao.jpg) | [Камень души могучего лича](/ItemsRU/unt_301/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения могучего лича |
   | 49 | ![Камень души могучей горгоны](/images/u/tia_manniu.jpg) | [Камень души могучей горгоны](/ItemsRU/unt_339/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения могучей горгоны |
   | 50 | ![Камень души огра-мага](/images/u/tia_shirenmo.jpg) | [Камень души огра-мага](/ItemsRU/unt_308/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения огра-мага |
@@ -86,4 +86,4 @@ classes: wide
   | 72 | ![Камень души элементаля Энергии](/images/u/tia_liehuoyuansu.jpg) | [Камень души элементаля Энергии](/ItemsRU/unt_346/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения элементаля Энергии |
   | 73 | ![Камень души эльфа-заклинателя](/images/u/tia_mofaxianling.jpg) | [Камень души эльфа-заклинателя](/ItemsRU/unt_343/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения эльфа-заклинателя. |
   | 74 | ![Камень души ядовитого змея](/images/u/tia_longying.jpg) | [Камень души ядовитого змея](/ItemsRU/unt_337/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения ядовитого змея. |
-  | 75 | ![камней души стража Прилива](/images/u/tia_yurenyongshi.jpg) | [камней души стража Прилива](/ItemsRU/unt_352/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня пробуждения камней души |
+  | 75 | ![камней души стража Прилива](/images/u/tia_yurenyongshi.jpg) | [камней души стража Прилива](/ItemsRU/unt_352/){: .btn .btn--era5} | Awakening Soul | Камень души для повышения уровня стража Прилива. |

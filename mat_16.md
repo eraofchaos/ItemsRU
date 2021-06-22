@@ -2,7 +2,7 @@
 title: "Item - Materials - Хорошие самоцветы"
 permalink: /mat_16/
 excerpt: "Эра хаоса  Хорошие самоцветы"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "mat_16.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Хорошая ртуть"
 permalink: /mat_14/
 excerpt: "Эра хаоса  Хорошая ртуть"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "mat_14.md"
 toc: false

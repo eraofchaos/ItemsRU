@@ -2,7 +2,7 @@
 title: "Item - Materials - Ценные кристаллы +2"
 permalink: /mat_31/
 excerpt: "Эра хаоса  Ценные кристаллы +2"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "mat_31.md"
 toc: false
