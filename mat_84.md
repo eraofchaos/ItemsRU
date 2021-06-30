@@ -2,7 +2,7 @@
 title: "Item - Materials - Духовная ртуть +3"
 permalink: /mat_84/
 excerpt: "Эра хаоса  Духовная ртуть +3"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "mat_84.md"
 toc: false

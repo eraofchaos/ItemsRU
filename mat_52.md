@@ -2,7 +2,7 @@
 title: "Item - Materials - Эпические кристаллы +2"
 permalink: /mat_52/
 excerpt: "Эра хаоса  Эпические кристаллы +2"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "mat_52.md"
 toc: false

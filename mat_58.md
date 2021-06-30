@@ -2,7 +2,7 @@
 title: "Item - Materials - Легендарные самоцветы +3"
 permalink: /mat_58/
 excerpt: "Эра хаоса  Легендарные самоцветы +3"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "mat_58.md"
 toc: false
