@@ -2,7 +2,7 @@
 title: "Item - Materials - Сияющая ртуть +5"
 permalink: /mat_98/
 excerpt: "Эра хаоса  Сияющая ртуть +5"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "mat_98.md"
 toc: false

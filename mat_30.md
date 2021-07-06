@@ -2,7 +2,7 @@
 title: "Item - Materials - Ценные самоцветы +2"
 permalink: /mat_30/
 excerpt: "Эра хаоса  Ценные самоцветы +2"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "mat_30.md"
 toc: false
