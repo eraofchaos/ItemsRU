@@ -2,7 +2,7 @@
 title: "Item - Materials - Звездные кристаллы +4"
 permalink: /mat_94/
 excerpt: "Эра хаоса  Звездные кристаллы +4"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: ru
 ref: "mat_94.md"
 toc: false

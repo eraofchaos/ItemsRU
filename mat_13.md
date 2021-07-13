@@ -2,7 +2,7 @@
 title: "Item - Materials - Хорошая древесина"
 permalink: /mat_13/
 excerpt: "Эра хаоса  Хорошая древесина"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: ru
 ref: "mat_13.md"
 toc: false

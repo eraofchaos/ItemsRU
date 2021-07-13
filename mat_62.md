@@ -2,7 +2,7 @@
 title: "Item - Materials - Мифическая древесина"
 permalink: /mat_62/
 excerpt: "Эра хаоса  Мифическая древесина"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: ru
 ref: "mat_62.md"
 toc: false
