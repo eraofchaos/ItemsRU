@@ -2,7 +2,7 @@
 title: "Item - Materials - Низкосортная сера"
 permalink: /mat_3/
 excerpt: "Эра хаоса  Низкосортная сера"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: ru
 ref: "mat_3.md"
 toc: false

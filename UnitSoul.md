@@ -2,7 +2,7 @@
 title: "Item - Unit Soul"
 permalink: /UnitSoul/
 excerpt: "Unit Soul in Era of Chaos"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Unit Soul.md"
 toc: false

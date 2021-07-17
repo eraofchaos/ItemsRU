@@ -2,7 +2,7 @@
 title: "Item - Materials - Обычная древесина"
 permalink: /mat_7/
 excerpt: "Эра хаоса  Обычная древесина"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: ru
 ref: "mat_7.md"
 toc: false
