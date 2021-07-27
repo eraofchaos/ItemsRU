@@ -2,7 +2,7 @@
 title: "Item - Materials - Звездная древесина +4"
 permalink: /mat_90/
 excerpt: "Эра хаоса  Звездная древесина +4"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "mat_90.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Unit Awakening"
 permalink: /UnitAwakening/
 excerpt: "Unit Awakening in Era of Chaos"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Unit Awakening.md"
 toc: false

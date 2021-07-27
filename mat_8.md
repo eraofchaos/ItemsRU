@@ -2,7 +2,7 @@
 title: "Item - Materials - Обычная ртуть"
 permalink: /mat_8/
 excerpt: "Эра хаоса  Обычная ртуть"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "mat_8.md"
 toc: false

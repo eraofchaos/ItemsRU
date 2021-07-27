@@ -2,7 +2,7 @@
 title: "Item - Materials - Вечная сера +1"
 permalink: /mat_71/
 excerpt: "Эра хаоса  Вечная сера +1"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "mat_71.md"
 toc: false
